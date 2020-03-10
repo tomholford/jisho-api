@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "jisho_api"
+require 'irb'
+
+api = JishoAPI::JishoAPI.new(debug: true)
+
+binding.irb

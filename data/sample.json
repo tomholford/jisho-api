@@ -1,0 +1,2250 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "学校",
+      "is_common": true,
+      "tags": [
+        "wanikani7"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "word": "學校",
+          "reading": "がっこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "school"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Gakkou"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "School"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “School” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/School?oldid=491526576"
+            },
+            {
+              "text": "Read “学校” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/学校?oldid=42766206"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/School"
+      }
+    },
+    {
+      "slug": "川",
+      "is_common": true,
+      "tags": [
+        "wanikani1",
+        "wanikani26"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "川",
+          "reading": "かわ"
+        },
+        {
+          "word": "川",
+          "reading": "がわ"
+        },
+        {
+          "word": "河",
+          "reading": "かわ"
+        },
+        {
+          "word": "河",
+          "reading": "がわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "river",
+            "stream"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "かわ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "River",
+            "the ... river"
+          ],
+          "parts_of_speech": [
+            "Suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "suffix used with the names of rivers"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Gawa"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "River"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “River” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/River?oldid=494979187"
+            },
+            {
+              "text": "Read “川” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/川?oldid=42715514"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/River"
+      }
+    },
+    {
+      "slug": "手",
+      "is_common": true,
+      "tags": [
+        "wanikani2"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "手",
+          "reading": "て"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hand",
+            "arm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "お手 おて"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "occ. pronounced た when a prefix"
+          ]
+        },
+        {
+          "english_definitions": [
+            "forepaw",
+            "foreleg"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "お手 おて"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "handle"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hand",
+            "worker",
+            "help"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "trouble",
+            "care",
+            "effort"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "means",
+            "way",
+            "trick",
+            "move",
+            "technique",
+            "workmanship"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hand",
+            "handwriting"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "kind",
+            "type",
+            "sort"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "one's hands",
+            "one's possession"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "手に入る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "ability to cope"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "手に余る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hand (of cards)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "direction"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "山の手"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "move (in go, shogi, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun - used as a suffix",
+            "Counter"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Te"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hand"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hand” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hand?oldid=494989436"
+            },
+            {
+              "text": "Read “手” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/手?oldid=42414144"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Hand"
+      }
+    },
+    {
+      "slug": "戸",
+      "is_common": true,
+      "tags": [
+        "wanikani3"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "戸",
+          "reading": "と"
+        },
+        {
+          "word": "門",
+          "reading": "と"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "door (esp. Japanese-style)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "戸"
+          ],
+          "see_also": [
+            "扉"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "shutter",
+            "window shutter"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "entrance (to a home)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "narrows"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "To"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Gate"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Gate” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Gate?oldid=494210029"
+            },
+            {
+              "text": "Read “門” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/門?oldid=39115919"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Gate"
+      }
+    },
+    {
+      "slug": "眼鏡",
+      "is_common": true,
+      "tags": [
+        "wanikani34"
+      ],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "眼鏡",
+          "reading": "めがね"
+        },
+        {
+          "word": "眼鏡",
+          "reading": "がんきょう"
+        },
+        {
+          "reading": "メガネ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "glasses",
+            "eyeglasses",
+            "spectacles"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "judgment",
+            "judgement",
+            "discrimination",
+            "discernment",
+            "insight"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [
+            "めがね",
+            "メガネ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Megane"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Glasses"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Glasses” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Glasses?oldid=494388060"
+            },
+            {
+              "text": "Read “眼鏡” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/眼鏡?oldid=42599911"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Glasses"
+      }
+    },
+    {
+      "slug": "煙草",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "煙草",
+          "reading": "たばこ"
+        },
+        {
+          "word": "莨",
+          "reading": "たばこ"
+        },
+        {
+          "word": "烟草",
+          "reading": "たばこ"
+        },
+        {
+          "word": "煙草",
+          "reading": "えんそう"
+        },
+        {
+          "word": "煙草",
+          "reading": "けぶりぐさ"
+        },
+        {
+          "word": "煙草",
+          "reading": "けむりぐさ"
+        },
+        {
+          "word": "烟草",
+          "reading": "えんそう"
+        },
+        {
+          "word": "烟草",
+          "reading": "けぶりぐさ"
+        },
+        {
+          "word": "烟草",
+          "reading": "けむりぐさ"
+        },
+        {
+          "reading": "タバコ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tobacco",
+            "cigarette",
+            "cigaret",
+            "cigar"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Portuguese",
+              "word": "“tabaco”"
+            }
+          ],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "tobacco plant (Nicotiana tabacum)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tabaco"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tobacco"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tobacco” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tobacco?oldid=495001100"
+            },
+            {
+              "text": "Read “タバコ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/タバコ?oldid=42731996"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Tobacco"
+      }
+    },
+    {
+      "slug": "赤",
+      "is_common": true,
+      "tags": [
+        "wanikani4"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "赤",
+          "reading": "あか"
+        },
+        {
+          "word": "紅",
+          "reading": "あか"
+        },
+        {
+          "word": "朱",
+          "reading": "あか"
+        },
+        {
+          "word": "緋",
+          "reading": "あか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "red",
+            "crimson",
+            "scarlet"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "red-containing colour (e.g. brown, pink, orange)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Red (i.e. communist)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "often written as アカ"
+          ]
+        },
+        {
+          "english_definitions": [
+            "red light (traffic)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "赤信号"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "red ink (i.e. in finance or proof-reading)",
+            "(in) the red"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "赤字",
+            "赤字"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "complete",
+            "total",
+            "perfect",
+            "obvious"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "赤の他人"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "copper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [
+            "赤"
+          ],
+          "see_also": [
+            "銅 あかがね"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "red poetry ribbon card (in hanafuda)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "あかたん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Aka"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Red"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Red” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Red?oldid=495022741"
+            },
+            {
+              "text": "Read “赤” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/赤?oldid=42762386"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Red"
+      }
+    },
+    {
+      "slug": "仕事",
+      "is_common": true,
+      "tags": [
+        "wanikani11"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "仕事",
+          "reading": "しごと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "work",
+            "job",
+            "business",
+            "occupation",
+            "employment",
+            "vocation",
+            "task"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "work"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Work"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Work” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Work?oldid=493759211"
+            },
+            {
+              "text": "Read “仕事” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/仕事?oldid=39647093"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Work"
+      }
+    },
+    {
+      "slug": "英語",
+      "is_common": true,
+      "tags": [
+        "wanikani15"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "英語",
+          "reading": "えいご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "English (language)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "English language"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “English language” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/English_language?oldid=494929487"
+            },
+            {
+              "text": "Read “英語” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/英語?oldid=42760483"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/English_language"
+      }
+    },
+    {
+      "slug": "問題",
+      "is_common": true,
+      "tags": [
+        "wanikani13"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "問題",
+          "reading": "もんだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "question (e.g. on a test)",
+            "problem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "problem (e.g. societal, political)",
+            "question",
+            "issue",
+            "subject (e.g. of research)",
+            "case",
+            "matter"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "question (i.e. doubt)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "public discussion",
+            "controversy"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "trouble",
+            "problem",
+            "inconvenience",
+            "difficulty"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Problem"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Problem” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Problem?oldid=488883497"
+            },
+            {
+              "text": "Read “問題” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/問題?oldid=42160331"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Problem"
+      }
+    },
+    {
+      "slug": "部屋",
+      "is_common": true,
+      "tags": [
+        "wanikani9"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "部屋",
+          "reading": "へや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "room",
+            "chamber"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "apartment",
+            "flat",
+            "pad"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "stable"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Sumo term",
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "相撲部屋"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Room"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Room” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Room?oldid=485563442"
+            },
+            {
+              "text": "Read “部屋” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/部屋?oldid=41044153"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Room"
+      }
+    },
+    {
+      "slug": "子供",
+      "is_common": true,
+      "tags": [
+        "wanikani24"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "子供",
+          "reading": "こども"
+        },
+        {
+          "word": "子ども",
+          "reading": "こども"
+        },
+        {
+          "word": "小供",
+          "reading": "こども"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "child"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Child"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Child” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Child?oldid=494816312"
+            },
+            {
+              "text": "Read “子供” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/子供?oldid=42765047"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Child"
+      }
+    },
+    {
+      "slug": "時間",
+      "is_common": true,
+      "tags": [
+        "wanikani8"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "時間",
+          "reading": "じかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "time"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hour"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "period",
+            "class",
+            "lesson"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Time"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Time” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Time?oldid=495174770"
+            },
+            {
+              "text": "Read “時間” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/時間?oldid=42528718"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Time"
+      }
+    },
+    {
+      "slug": "雨",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "雨",
+          "reading": "あめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rain"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rain"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rain” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rain?oldid=493013115"
+            },
+            {
+              "text": "Read “雨” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/雨?oldid=42665243"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rain"
+      }
+    },
+    {
+      "slug": "先生",
+      "is_common": true,
+      "tags": [
+        "wanikani4"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "先生",
+          "reading": "せんせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "teacher",
+            "instructor",
+            "master"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sensei",
+            "title or form of address for a teacher, master, doctor, lawyer, etc."
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun - used as a suffix"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "intimate or teasing form of address"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Familiar language",
+            "Jocular, humorous term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "one's elder"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "orig. meaning"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Sensei"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sensei” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sensei?oldid=494582211"
+            },
+            {
+              "text": "Read “先生” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/先生?oldid=42615463"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sensei"
+      }
+    },
+    {
+      "slug": "年",
+      "is_common": true,
+      "tags": [
+        "wanikani4"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "年",
+          "reading": "とし"
+        },
+        {
+          "word": "歳",
+          "reading": "とし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "year"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "age",
+            "years"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "past one's prime",
+            "old age"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Year"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Year” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Year?oldid=494919302"
+            },
+            {
+              "text": "Read “年” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/年?oldid=42540344"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Year"
+      }
+    },
+    {
+      "slug": "手紙",
+      "is_common": true,
+      "tags": [
+        "wanikani7"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "手紙",
+          "reading": "てがみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "letter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Letter (message)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Letter (message)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Letter_(message)?oldid=491762684"
+            },
+            {
+              "text": "Read “手紙” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/手紙?oldid=42761931"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Letter_(message)"
+      }
+    },
+    {
+      "slug": "電話",
+      "is_common": true,
+      "tags": [
+        "wanikani8"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "電話",
+          "reading": "でんわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "telephone call",
+            "phone call"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "telephone (device)",
+            "phone"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "電話機"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Telephony"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Telephony” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Telephony?oldid=490215218"
+            },
+            {
+              "text": "Read “電話” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/電話?oldid=42315763"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Telephony"
+      }
+    },
+    {
+      "slug": "水",
+      "is_common": true,
+      "tags": [
+        "wanikani2"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "水",
+          "reading": "みず"
+        },
+        {
+          "word": "水",
+          "reading": "み"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water (esp. cool, fresh water, e.g. drinking water)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "湯 ゆ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "み is generally used in compounds"
+          ]
+        },
+        {
+          "english_definitions": [
+            "fluid (esp. in an animal tissue)",
+            "liquid"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "flood",
+            "floodwaters"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "water offered to wrestlers just prior to a bout"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Sumo term"
+          ],
+          "restrictions": [
+            "みず"
+          ],
+          "see_also": [
+            "力水"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "break granted to wrestlers engaged in a prolonged bout"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Sumo term"
+          ],
+          "restrictions": [
+            "みず"
+          ],
+          "see_also": [
+            "水入り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Water"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Water” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Water?oldid=494683228"
+            },
+            {
+              "text": "Read “水” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/水?oldid=42737804"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Water"
+      }
+    },
+    {
+      "slug": "病気",
+      "is_common": true,
+      "tags": [
+        "wanikani10"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "病気",
+          "reading": "びょうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "illness (usu. excluding minor ailments, e.g. colds)",
+            "disease",
+            "sickness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "weirdness",
+            "bad habit",
+            "bad behaviour",
+            "craziness",
+            "perversion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Disease?oldid=494765883"
+            },
+            {
+              "text": "Read “病気” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/病気?oldid=42632754"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Disease"
+      }
+    }
+  ]
+}
