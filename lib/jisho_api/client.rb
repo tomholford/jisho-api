@@ -14,6 +14,8 @@ module JishoAPI
       params.merge!(keyword: query) unless params.key?(:keyword)
       params.merge!(page: page) unless params.key?(:page)
 
+      invalidate_cached_response!
+
       self.response = connection.get do |req|
         req.params = params
       end
@@ -26,16 +28,17 @@ module JishoAPI
     def connection
       @connection ||= Faraday.new(
         url: URI,
-        headers: { 'Content-Type' => 'application/json' }
+        headers: { 
+          'Content-Type' => 'application/json',
+          'User-Agent' => "gem jisho_api #{JishoAPI::VERSION}"
+        }
       )
     end
 
     def handle_response
-      if response.status == 200 && api_status == 200
-        api_data
-      else
-        raise APIError, "#{response.status} response from API"
-      end
+      return api_data if response.status == 200 && api_status == 200
+
+      raise APIError, "#{response.status} response from API"
     end
 
     def api_status
@@ -48,6 +51,11 @@ module JishoAPI
 
     def parsed_response
       @parsed_response ||= JSON.parse(response.body).with_indifferent_access
+    end
+
+    def invalidate_cached_response!
+      self.response = nil
+      self.parsed_response = nil
     end
   end
 end
