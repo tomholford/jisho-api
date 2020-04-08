@@ -55,7 +55,7 @@ module JishoAPI
 
     def invalidate_cached_response!
       self.response = nil
-      self.parsed_response = nil
+      @parsed_response = nil
     end
   end
 end
