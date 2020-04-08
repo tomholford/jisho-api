@@ -30,7 +30,7 @@ module JishoAPI
         url: URI,
         headers: { 
           'Content-Type' => 'application/json',
-          'User-Agent' => "gem jisho_api #{JishoAPI::VERSION}"
+          'User-Agent' => "gem jisho_api #{::JishoAPI::VERSION}"
         }
       )
     end
