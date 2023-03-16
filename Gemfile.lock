@@ -22,7 +22,7 @@ GEM
       concurrent-ruby (~> 1.0)
     minitest (5.14.1)
     multipart-post (2.1.1)
-    rack (2.2.3)
+    rack (3.0.7)
     rainbow (3.0.0)
     rake (13.0.1)
     thread_safe (0.3.6)
